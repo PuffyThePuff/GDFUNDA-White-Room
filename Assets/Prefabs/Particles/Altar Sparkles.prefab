@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7388417126203812312}
   - component: {fileID: 7388417126203812319}
   m_Layer: 0
-  m_Name: Particle System
+  m_Name: Altar Sparkles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
